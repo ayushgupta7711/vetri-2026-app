@@ -1,19 +1,37 @@
 {
   "id": "/index.html",
-  "name": "VETRI 2026 – SBI Scale I to II",
+  "name": "VETRI 2026 \u2013 SBI Scale I to II",
   "short_name": "VETRI 2026",
   "description": "Offline SBI promotion exam MCQ practice based exclusively on the VETRI 2026 booklet.",
   "lang": "en-IN",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui"],
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
   "orientation": "portrait",
-  "background_color": "#f4f7fb",
-  "theme_color": "#123b78",
+  "background_color": "#f3f6fa",
+  "theme_color": "#082b5c",
   "icons": [
-    {"src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "./icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }

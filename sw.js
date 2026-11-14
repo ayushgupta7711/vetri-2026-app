@@ -1,5 +1,5 @@
 /* VETRI 2026 offline service worker */
-const CACHE_NAME = 'vetri-2026-pwa-v1';
+const CACHE_NAME = 'vetri-2026-pwa-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
